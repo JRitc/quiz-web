@@ -1,6 +1,6 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: aliceblue;
+    background-color: rgb(215, 248, 222);
 }
 
 .error {
@@ -39,7 +39,7 @@ body {
 }
 
 .wrong {
-    background-color: lightpink;
+    background-color: rgb(201, 6, 35);
     border: 2px solid darksalmon;
 }
 
